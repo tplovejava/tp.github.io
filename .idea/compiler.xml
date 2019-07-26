@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authserver" />
+        <module name="base-java" />
+        <module name="elasticsearch" />
+        <module name="gateway" />
+        <module name="jax-rs2-guide" />
+        <module name="resource-service" />
+        <module name="runcoding-nacos" />
+        <module name="runcoding-restful" />
+        <module name="runcoding-restful-mybatis" />
+        <module name="spring-cloud" />
+        <module name="springboot" />
+        <module name="sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authserver" target="8" />
+      <module name="base-java" target="1.8" />
+      <module name="elasticsearch" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="jax-rs2-guide" target="1.8" />
+      <module name="resource-service" target="8" />
+      <module name="runcoding-nacos" target="1.8" />
+      <module name="runcoding-restful" target="1.8" />
+      <module name="runcoding-restful-mybatis" target="1.8" />
+      <module name="spring-cloud" target="1.5" />
+      <module name="springboot" target="1.5" />
+      <module name="sso" target="8" />
+      <module name="tplovejava.github.io" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="authserver" options="-parameters" />
+      <module name="elasticsearch" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="resource-service" options="-parameters" />
+      <module name="sso" options="-parameters" />
+    </option>
+  </component>
+</project>
