@@ -1,6 +1,6 @@
 ##  [https://tplovejava .github.io](https://tplovejava.github.io)
 ### 概述
-本着相关学习的目的，关于如何成就自我，做不定期的知识与经验的沉淀。1234
+不断学习，不断创新。
 
 - 互联网技术
  - [Java 核心基础](https://runcoding.github.io/?sidebar=develop/back_end/java#/)
