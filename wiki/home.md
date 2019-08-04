@@ -18,9 +18,10 @@
 容器：Docker、Tomcat、Nginx、Jetty  
 前端：Vue、Elementui、Bootstrap、Easyui  
 工作流：Activiti  
-中间件：ActiveMq、Eureka  
-数据库：Oracle、MySql、sqlServer、Sqlite  
-其他：Maven、Git|Svn、Jenkins
+中间件：ActiveMq、Eureka、Dwr
+数据库：Oracle、MySql、SqlServer、Sqlite  
+搜索引擎：ElasticSearch、Solr
+其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
 
