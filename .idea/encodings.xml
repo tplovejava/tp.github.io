@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding">
     <file url="file://$PROJECT_DIR$/develop/back_end/java/base-java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/develop/back_end/java/spring-cloud/gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/develop/back_end/java/spring-cloud/security/authserver" charset="UTF-8" />
@@ -10,6 +10,5 @@
     <file url="file://$PROJECT_DIR$/develop/back_end/java/springboot/nacos/runcoding-nacos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/develop/back_end/java/springboot/runcoding-restful" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/develop/back_end/java/springboot/runcoding-restful-mybatis" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

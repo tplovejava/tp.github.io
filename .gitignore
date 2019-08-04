@@ -5,3 +5,11 @@ node_modules
 main/gitbook/wiki
 main/gitbook/_book
 develop/back_end/java/springboot/elasticsearch/wiki/docker/node/data
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
