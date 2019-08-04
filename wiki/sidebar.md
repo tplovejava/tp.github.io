@@ -2,9 +2,9 @@
   - [个人简介](/wiki/home)
 - **项目经历**
   - [智慧食堂系统](/wiki/pro/zhst)
-  - [智慧物业系统](/wiki/pro/zhst)
-  - [企业随意行服务系统](/wiki/pro/zhst)
-  - [微信公众号运营平台](/wiki/pro/zhst)
+  - [智慧物业系统](/wiki/pro/zhsq)
+  - [企业随意行服务系统](/wiki/pro/syx)
+  - [微信公众号运营平台](/wiki/pro/wx)
   - [..](/wiki)
 - **技能**
   - [计数机技术]({{baseDomain}}?sidebar=develop)
