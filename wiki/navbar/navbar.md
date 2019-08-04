@@ -1,3 +1,3 @@
 - 更多
-  - [新浪博客](//blog.sina.com.cn/u/1803968562)  
-  - [微信](https://runcoding.github.io/wiki/dist/use/wechat.jpg) 
+  - [新浪博客](https://www.cnblogs.com/tplovejava/)  
+  - [微信](https://raw.githubusercontent.com/tplovejava/static/master/wiki/home/tp_ewm.png) 
