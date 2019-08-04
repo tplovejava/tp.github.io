@@ -5,7 +5,7 @@
   - [智慧物业系统](/wiki/pro/zhst)
   - [企业随意行服务系统](/wiki/pro/zhst)
   - [微信公众号运营平台](/wiki/pro/zhst)
-  - [..]()
+  - [..](/wiki)
 - **技能**
   - [计数机技术]({{baseDomain}}?sidebar=develop)
 - **意识**
