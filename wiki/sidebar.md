@@ -1,5 +1,7 @@
 - **关于**
   - [个人简介](/wiki/home)
+- **项目**
+  - [智慧食堂](/wiki/pro/zhst)
 - **技能**
   - [计数机技术]({{baseDomain}}?sidebar=develop)
 - **意识**
