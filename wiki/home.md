@@ -22,10 +22,9 @@
 其他：Maven、Git|Svn、Jenkins
 ```
 
-### 带过的团队
-```
-带过6-7个人的团队
-```
+### 项目
+<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pro.png" >
+
 
 ### 联系方式
 
