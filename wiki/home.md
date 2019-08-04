@@ -9,7 +9,7 @@
  - 2014-06 ～ 2015-08  中国电信台州分公司   `Java开发工程师`
  - 2013-11 ～ 2014-05  杭州银货通科技有限公司 `Java开发工程师`
 
-##IT技能
+### IT技能
 - **框架：** SpringCloud、Mybatis、SpringMvc  
 - **缓存：** Redis、ehcahe  
 - **容器：** Docker、Tomcat、Nginx、Jetty  
