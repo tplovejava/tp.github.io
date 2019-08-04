@@ -1,6 +1,6 @@
 ## 关于作者
 
-- **姓名：** 陶鹏 
+- **姓名：** 陶鹏  
 - **邮箱：** tplovejava@sina.cn
 
 >游弋在菜鸟和大神之间
@@ -21,9 +21,6 @@
 数据库：Oracle、MySql、sqlServer、Sqlite  
 其他：Maven、Git|Svn、Jenkins
 ```
-
-### 项目
-<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pro.png" >
 
 
 ### 联系方式
