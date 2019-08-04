@@ -11,6 +11,7 @@ http://zhst.tzunicom.com/manage/
 
 ### 项目展示
 <img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pc_1.png">
+<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_screen_1.png">
 <img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_app_1.png" style="max-width: 300px;">
 <img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_app_2.png" style="max-width: 300px;">
 <img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_app_3.png" style="max-width: 300px;">
