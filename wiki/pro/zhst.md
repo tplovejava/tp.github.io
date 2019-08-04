@@ -1,5 +1,6 @@
 ### 介绍
 >时间：2019-02至2019-06
+
 http://zhst.tzunicom.com/manage/
 ```
 搭建springcloud分布式架构以及数据库结构设计，该项目主要涉及权限服务，  
@@ -9,7 +10,6 @@ http://zhst.tzunicom.com/manage/
 ```
 
 ### 项目展示
-<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pro.png" style="float:left">
-<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pro.png"  style="float:left">
+<img src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/project/zhst_pro.png">
 
 
