@@ -1,5 +1,5 @@
 - **关于**
-  - > [个人简介](/wiki/home)
+  - [个人简介](/wiki/home)
 - **项目经历**
   - [智慧食堂系统](/wiki/pro/zhst)
   - [智慧物业系统](/wiki/pro/zhst)
