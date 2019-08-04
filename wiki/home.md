@@ -1,15 +1,23 @@
 ## 关于作者
 
-- **姓名：** 陶鹏
+- **姓名：** 陶鹏 
 - **邮箱：** tplovejava@sina.cn
 
-
-> 游弋在菜鸟与大神之间
 
 ### 工作经历
  - 2015-09 ～   至今          某某公司       `系统架构师&组长`
  - 2014-06 ～ 2015-08  中国电信台州分公司   `Java开发工程师`
  - 2013-11 ～ 2014-05  杭州银货通科技有限公司 `Java开发工程师`
+
+##IT技能
+- **框架：** SpringCloud、Mybatis、SpringMvc  
+- **缓存：** Redis、ehcahe  
+- **容器：** Docker、Tomcat、Nginx、Jetty  
+- **前端：** Vue、Elementui、Bootstrap、Easyui  
+- **工作流：** Activiti  
+- **中间件：** ActiveMq、Eureka  
+- **数据库：** Oracle、MySql、sqlServer、Sqlite  
+- **其他：** Maven、Git|Svn、Jenkins
 
 
 ### 带过的团队
