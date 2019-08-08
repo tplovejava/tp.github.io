@@ -25,7 +25,7 @@
 其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+<video id="video" controls="" preload="none"  autoplay="autoplay" >
   <source id="mp4" src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/video/life.mp4" type="video/mp4">
   </video>
 
