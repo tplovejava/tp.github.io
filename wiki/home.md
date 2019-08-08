@@ -24,6 +24,7 @@
 其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" frameborder="0" allowfullscreen></iframe>
 
 ### 联系方式
 
