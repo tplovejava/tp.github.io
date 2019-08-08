@@ -25,7 +25,7 @@
 其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
-<audio id="audio" controls="" preload="none" autoplay="autoplay">
+<audio id="audio" preload="none" autoplay="autoplay">
 <source id="mp3" src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/music/life.mp3">
 </audio>
 
