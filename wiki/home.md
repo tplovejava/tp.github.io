@@ -25,9 +25,9 @@
 其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
-<video id="video" controls="" preload="none"  autoplay="autoplay" >
-  <source id="mp4" src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/video/life.mp4" type="video/mp4">
-  </video>
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/music/life.mp3">
+</audio>
 
 ### 联系方式
 
