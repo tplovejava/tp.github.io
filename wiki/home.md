@@ -24,7 +24,9 @@
 其他：Maven、Git|Svn、Jenkins、Linux
 ```
 
-<video class="" autoplay="" tabindex="2" mediatype="video" src="https://vd1.bdstatic.com/mda-hijjxackbsc53acg/hd/mda-hijjxackbsc53acg.mp4?auth_key=1565273199-0-0-457c809d674040934315ab7867fba45f&amp;bcevod_channel=searchbox_feed&amp;pd=bjh&amp;abtest=all" style="position: absolute; top: 0px; left: 0px;"></video>
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+<source id="mp4" src="https://vd1.bdstatic.com/mda-hijjxackbsc53acg/hd/mda-hijjxackbsc53acg.mp4?auth_key=1565273199-0-0-457c809d674040934315ab7867fba45f&bcevod_channel=searchbox_feed&pd=bjh&abtest=all" type="video/mp4">
+</video>
 
 ### 联系方式
 
