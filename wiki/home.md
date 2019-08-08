@@ -1,6 +1,7 @@
 ## 关于作者
 
 - **姓名：** 陶鹏  
+- **电话：** 15657675086
 - **邮箱：** tplovejava@sina.cn
 - **博客：** https://www.cnblogs.com/tplovejava/
 
@@ -25,8 +26,8 @@
 ```
 
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="https://vd1.bdstatic.com/mda-hijjxackbsc53acg/hd/mda-hijjxackbsc53acg.mp4?auth_key=1565273199-0-0-457c809d674040934315ab7867fba45f&bcevod_channel=searchbox_feed&pd=bjh&abtest=all" type="video/mp4">
-</video>
+  <source id="mp4" src="https://raw.githubusercontent.com/tplovejava/static/master/wiki/video/life.mp4" type="video/mp4">
+  </video>
 
 ### 联系方式
 
