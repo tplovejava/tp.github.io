@@ -16,7 +16,7 @@
         <project-encoding>UTF-8</project-encoding>
         <maven-compiler-plugin.version>3.1</maven-compiler-plugin.version>
 
-        <spring-boot.version>1.2.2.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <start-class>com.example.springboot.Application</start-class>
     </properties>
 
